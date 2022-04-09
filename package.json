@@ -1,6 +1,6 @@
 {
   "name": "@memory13/create-file-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "webpack打包自动生成文件列表清单功能的插件",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git@gitee.com:zhigangzhang1/create-file-list.git"
   },
-  "keywords": ["webpack", "生成文件列表清单"],
+  "keywords": [
+    "webpack",
+    "生成文件列表清单"
+  ],
   "author": "",
   "license": "ISC"
 }
