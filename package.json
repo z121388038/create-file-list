@@ -1,6 +1,6 @@
 {
   "name": "@memory13/create-file-list",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "webpack打包自动生成文件列表清单功能的插件",
   "main": "index.js",
   "scripts": {
